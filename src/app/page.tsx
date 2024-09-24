@@ -1,9 +1,9 @@
-import NameInputForm from '../components/NameInputForm'
+import WelcomePage from "@/components/WelcomePage";
 
 export default function Home() {
   return (
     <main>
-      <NameInputForm />
+    <WelcomePage/>
     </main>
   )
 }
